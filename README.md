@@ -1,3 +1,4 @@
+## Quest FireBase part 1
 ## Halaman Home
 
 <p align="center">
@@ -29,6 +30,34 @@
 
 <p align="center">
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f96e9b7-26ca-4aa6-946d-90004859be68" />
+>
+</p>
+
+---
+
+## Quest FireBase part 2
+## Halaman Detail
+
+<p align="center">
+<img width="1920" height="1080" alt="Screenshot 2026-01-09 203432" src="https://github.com/user-attachments/assets/64b12a73-5a56-44c6-a225-30ee380ac53c" />
+>
+</p>
+
+---
+
+## Halaman Edit
+
+<p align="center">
+<img width="1920" height="1080" alt="Screenshot 2026-01-09 203601" src="https://github.com/user-attachments/assets/97ee4c6d-2c2b-4072-84e9-ede5acc6e6ec" />
+>
+</p>
+
+---
+
+## Halaman Home setelah di Entry
+
+<p align="center">
+<img width="1920" height="1080" alt="Screenshot 2026-01-09 203642" src="https://github.com/user-attachments/assets/e320830e-df03-4af8-8f86-490766f68df8" />
 >
 </p>
 
